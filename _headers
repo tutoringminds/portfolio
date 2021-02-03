@@ -1,0 +1,143 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.32b9595d0aacfb36003b.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-407fe62976dc5310c43e.js
+  Cache-Control: public, max-age=31536000, immutable
+/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-homepage-query-tsx-cfc84166a903209b1607.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-3052dcea54c1fdf94b0f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-277afd6c5136286f4008.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-f461f14c89a578757fdc.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-3d841a744befa2045f61.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-b7dd754f9b9338ff31d7.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-6c3ead24af170cdcb87c.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-685ca6c7db4a6d5efbda.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/portfolio/
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-homepage-query-tsx-cfc84166a903209b1607.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/projects
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-3052dcea54c1fdf94b0f.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/extreme-neon-what-is-this-trend-about
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-277afd6c5136286f4008.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/extreme-neon-what-is-this-trend-about/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/color-in-all-its-glory
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-277afd6c5136286f4008.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/color-in-all-its-glory/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/breakfast
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-277afd6c5136286f4008.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/breakfast/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/black-white-superb-art
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-277afd6c5136286f4008.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/black-white-superb-art/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/about
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-f461f14c89a578757fdc.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/instagram
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-f461f14c89a578757fdc.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/instagram/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/offline-plugin-app-shell-fallback/
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/404/
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-404-jsx-3d841a744befa2045f61.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/404.html
+  Link: </portfolio/webpack-runtime-b7dd754f9b9338ff31d7.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </portfolio/app-685ca6c7db4a6d5efbda.js>; rel=preload; as=script
+  Link: </portfolio/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </portfolio/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-f4557437bc843b0da288.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-404-jsx-3d841a744befa2045f61.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin

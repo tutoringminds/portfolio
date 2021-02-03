@@ -2,8 +2,10 @@ require(`dotenv`).config({
   path: `.env`,
 });
 
+const pathPrefix = "/portfolio";
+
 module.exports = {
-  pathPrefix: "/portfolio",
+  pathPrefix,
   siteMetadata: {
     siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
   },
@@ -13,9 +15,9 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Projects`, slug: `/projects` },
-          { name: `Instagram`, slug: `/instagram` },
-          { name: `About`, slug: `/about` },
+          { name: `Projects`, slug: `${pathPrefix}/projects` },
+          { name: `Instagram`, slug: `${pathPrefix}/instagram` },
+          { name: `About`, slug: `${pathPrefix}/about` },
         ],
       },
     },
@@ -28,7 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `2315642426`,
+        username: `476678419`,
       },
     },
     `gatsby-plugin-sitemap`,

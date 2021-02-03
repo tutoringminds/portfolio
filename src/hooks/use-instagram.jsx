@@ -1,9 +1,12 @@
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby";
 
 const useInstagram = () => {
   const data = useStaticQuery(graphql`
     {
-      instagram: allInstaNode(sort: { fields: timestamp, order: DESC }, limit: 30) {
+      instagram: allInstaNode(
+        sort: { fields: timestamp, order: DESC }
+        limit: 30
+      ) {
         nodes {
           caption
           id
@@ -14,14 +17,17 @@ const useInstagram = () => {
               fluid(quality: 100, maxWidth: 600, maxHeight: 600) {
                 ...GatsbyImageSharpFluid_withWebp
               }
+              fixed(width: 150, height: 150) {
+                ...GatsbyImageSharpFixed
+              }
             }
           }
         }
       }
     }
-  `)
+  `);
 
-  return data.instagram.nodes
-}
+  return data.instagram.nodes;
+};
 
-export default useInstagram
+export default useInstagram;
